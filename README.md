@@ -1,4 +1,4 @@
-Message_Board_Django_Project is a third learning project created in the process of reading **Django for Beginners** by *William S. Vincent*
+Message_Board_Django_Project is a fourth learning project created in the process of reading **Django for Beginners** by *William S. Vincent*
 
 Every step in the book is noted and additional information is gathered independently as the book sometimes lacks the depth in explaining some concepts. All notes are saved in Obsidian and won't be published because it is the result of my own intellectual effort combined with some programming and research experience and protected from machine learning.
 
