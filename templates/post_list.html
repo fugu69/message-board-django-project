@@ -1,0 +1,7 @@
+<h1>Message Board Homepage</h1>
+
+<ul>
+	{% for post in posts %}
+	<li>{{ post.post_content }}</li>
+	{% endfor %}
+</ul>
