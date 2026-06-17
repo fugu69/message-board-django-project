@@ -8,6 +8,7 @@ Every step in the book is noted and additional information is gathered independe
 - Models
 - QuerySet and managers
 - ListView GCBV
+- Testing data base functionality
 
 ## Skills and knowledge acquired
 
@@ -19,5 +20,8 @@ Every step in the book is noted and additional information is gathered independe
 - learn QuerySet and default `objects` manager for database queries
 - use ListView GCBV
 - git version control
+- use TestCase
+
+
 
 
